@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmdfront/static/css/main.703532e2.css",
+    "main.js": "/bmdfront/static/js/main.b121c235.js",
+    "static/js/592.493cdcad.chunk.js": "/bmdfront/static/js/592.493cdcad.chunk.js",
+    "index.html": "/bmdfront/index.html",
+    "main.703532e2.css.map": "/bmdfront/static/css/main.703532e2.css.map",
+    "main.b121c235.js.map": "/bmdfront/static/js/main.b121c235.js.map",
+    "592.493cdcad.chunk.js.map": "/bmdfront/static/js/592.493cdcad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.703532e2.css",
+    "static/js/main.b121c235.js"
+  ]
+}
